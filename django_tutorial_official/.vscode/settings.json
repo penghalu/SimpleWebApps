@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "/home/madyan/.local/share/virtualenvs/django_tutorial_official-EabUxlot/bin/python",
+    "git.enableCommitSigning": true,
+    "python.linting.pylintArgs": [
+        "--disable=C0111", // mematikan pesan error: docstring missing
+        "--load-plugins=pylint_django"
+    ]
+}
