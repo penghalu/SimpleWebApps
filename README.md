@@ -1,2 +1,2 @@
 # SimpleWebApps
-Kumpulan aplikasi berbasis website sederhana.
+Kumpulan aplikasi sederhana berbasis website.
